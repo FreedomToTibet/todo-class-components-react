@@ -1,0 +1,24 @@
+{
+  "todoData": [
+    {
+      "label": "Drink Coffee",
+      "important": false,
+      "done": false,
+      "id": "id1"
+    },
+    {
+      "label": "Learn React",
+      "important": false,
+      "done": false,
+      "id": "id2"
+    },
+    {
+      "label": "Build Awesome App",
+      "important": false,
+      "done": false,
+      "id": "id3"
+    }
+  ],
+  "term": "",
+  "filter": "all"
+}
